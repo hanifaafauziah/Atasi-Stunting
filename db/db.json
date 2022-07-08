@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "email": "some@email.com",
+      "password": "$2a$10$Wb7MwD/IWsgx9pb6ZzlN1.ptcp1yeKUEChWYoi8nr.wlipZ3TVsT.",
+      "name": "Baru",
+      "id": 1
+    }
+  ],
+  "patients": [
+    {
+      "id": 1,
+      "name": "Hani",
+      "gender": "Girl",
+      "age": 12,
+      "height": "60",
+      "status": "Severely stunted"
+    },
+    {
+      "name": "aku",
+      "age": "12",
+      "gender": "Boy",
+      "height": "12",
+      "status": "Moderately stunted",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Hanifa Fauziah",
+      "age": "20",
+      "gender": "Boy",
+      "height": "80",
+      "status": "Normal"
+    },
+    {
+      "id": 4,
+      "name": "hudawarman",
+      "age": "24",
+      "gender": "Boy",
+      "height": "20",
+      "status": "Severely stunted "
+    }
+  ]
+}
